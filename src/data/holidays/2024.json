@@ -1,0 +1,177 @@
+{
+  "country": {
+    "code": "MM",
+    "code3": "MMR",
+    "name": "Myanmar"
+  },
+  "year": 2024,
+  "holidays": [
+    {
+      "date": "2024-01-01",
+      "name": "New Year's Day",
+      "local_name": "နှစ်သစ်ကူးနေ့",
+      "type": "national",
+      "observed_date": "2024-01-01",
+      "is_observed_shifted": false,
+      "description": "First day of the Gregorian calendar."
+    },
+    {
+      "date": "2024-01-04",
+      "name": "Independence Day",
+      "local_name": "လွတ်လပ်ရေးနေ့",
+      "type": "national",
+      "observed_date": "2024-01-04",
+      "is_observed_shifted": false,
+      "description": "76th anniversary of independence from British rule."
+    },
+    {
+      "date": "2024-01-11",
+      "name": "Kayin New Year Day",
+      "local_name": "ကရင်နှစ်သစ်ကူးနေ့",
+      "type": "national",
+      "observed_date": "2024-01-11",
+      "is_observed_shifted": false,
+      "description": "Traditional New Year of the Kayin people (First day of Pyatho)."
+    },
+    {
+      "date": "2024-02-12",
+      "name": "Union Day",
+      "local_name": "ပြည်ထောင်စုနေ့",
+      "type": "national",
+      "observed_date": "2024-02-12",
+      "is_observed_shifted": false,
+      "description": "Commemorates the Panglong Agreement."
+    },
+    {
+      "date": "2024-03-02",
+      "name": "Peasants' Day",
+      "local_name": "တောင်သူလယ်သမားနေ့",
+      "type": "national",
+      "observed_date": "2024-03-02",
+      "is_observed_shifted": false,
+      "description": "Honoring the workers of the agricultural sector."
+    },
+    {
+      "date": "2024-03-24",
+      "name": "Full Moon Day of Tabaung",
+      "local_name": "တပေါင်းလပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2024-03-24",
+      "is_observed_shifted": false,
+      "description": "Last full moon of the Burmese calendar year."
+    },
+    {
+      "date": "2024-03-27",
+      "name": "Armed Forces Day",
+      "local_name": "တပ်မတော်နေ့",
+      "type": "national",
+      "observed_date": "2024-03-27",
+      "is_observed_shifted": false,
+      "description": "Commemorates the resistance against Japanese occupation."
+    },
+    {
+      "date": "2024-04-13",
+      "name": "Thingyan Water Festival (Eve)",
+      "local_name": "သင်္ကြန်အကြိုနေ့",
+      "type": "national",
+      "observed_date": "2024-04-13",
+      "is_observed_shifted": false,
+      "description": "Start of the 9-day Thingyan public holiday."
+    },
+    {
+      "date": "2024-04-17",
+      "name": "Myanmar New Year Day",
+      "local_name": "မြန်မာနှစ်ဆန်းတစ်ရက်နေ့",
+      "type": "national",
+      "observed_date": "2024-04-17",
+      "is_observed_shifted": false,
+      "description": "The first day of the Myanmar New Year."
+    },
+    {
+      "date": "2024-05-01",
+      "name": "Labour Day",
+      "local_name": "အလုပ်သမားနေ့",
+      "type": "national",
+      "observed_date": "2024-05-01",
+      "is_observed_shifted": false,
+      "description": "International Workers' Day."
+    },
+    {
+      "date": "2024-05-22",
+      "name": "Full Moon Day of Kason",
+      "local_name": "ကဆုန်လပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2024-05-22",
+      "is_observed_shifted": false,
+      "description": "Buddha Day celebrating birth, enlightenment, and death."
+    },
+    {
+      "date": "2024-07-19",
+      "name": "Martyrs' Day",
+      "local_name": "အာဇာနည်နေ့",
+      "type": "national",
+      "observed_date": "2024-07-19",
+      "is_observed_shifted": false,
+      "description": "Commemorates General Aung San and other fallen leaders."
+    },
+    {
+      "date": "2024-07-20",
+      "name": "Full Moon Day of Waso",
+      "local_name": "ဝါဆိုလပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2024-07-20",
+      "is_observed_shifted": false,
+      "description": "Beginning of Buddhist Lent."
+    },
+    {
+      "date": "2024-10-17",
+      "name": "Full Moon Day of Thadingyut",
+      "local_name": "သီတင်းကျွတ်လပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2024-10-17",
+      "is_observed_shifted": false,
+      "description": "End of Buddhist Lent - Light Festival."
+    },
+    {
+      "date": "2024-11-15",
+      "name": "Full Moon Day of Tazaungmone",
+      "local_name": "တန်ဆောင်မုန်းလပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2024-11-15",
+      "is_observed_shifted": false,
+      "description": "Tazaungdaing Festival of Lights."
+    },
+    {
+      "date": "2024-11-25",
+      "name": "National Day",
+      "local_name": "အမျိုးသားနေ့",
+      "type": "national",
+      "observed_date": "2024-11-25",
+      "is_observed_shifted": false,
+      "description": "Anniversary of the first student boycott against colonial education."
+    },
+    {
+      "date": "2024-12-25",
+      "name": "Christmas Day",
+      "local_name": "ခရစ္စမတ်နေ့",
+      "type": "national",
+      "observed_date": "2024-12-25",
+      "is_observed_shifted": false,
+      "description": "Christian festival of Christmas."
+    },
+    {
+      "date": "2024-12-30",
+      "name": "Kayin New Year Day",
+      "local_name": "ကရင်နှစ်သစ်ကူးနေ့",
+      "type": "national",
+      "observed_date": "2024-12-30",
+      "is_observed_shifted": false,
+      "description": "Second Kayin New Year within the 2024 Gregorian year."
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-03-30T11:30:00.000Z",
+    "total_holidays": 18,
+    "disclaimer": "Local-first mock data for code test purposes."
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "country": {
+    "code": "MM",
+    "code3": "MMR",
+    "name": "Myanmar"
+  },
+  "year": 2026,
+  "holidays": [
+    {
+      "date": "2026-01-04",
+      "name": "Independence Day",
+      "local_name": "လွတ်လပ်ရေးနေ့",
+      "type": "national",
+      "observed_date": "2026-01-04",
+      "is_observed_shifted": false,
+      "description": "Commemorates independence from British rule in 1948"
+    },
+    {
+      "date": "2026-02-12",
+      "name": "Union Day",
+      "local_name": "ပြည်ထောင်စုနေ့",
+      "type": "national",
+      "observed_date": "2026-02-12",
+      "is_observed_shifted": false,
+      "description": "Commemorates the Panglong Agreement of 1947"
+    },
+    {
+      "date": "2026-03-02",
+      "name": "Peasants Day",
+      "local_name": "တောင်သူလယ်သမားနေ့",
+      "type": "national",
+      "observed_date": "2026-03-02",
+      "is_observed_shifted": false,
+      "description": "Honors farmers and agricultural workers"
+    },
+    {
+      "date": "2026-03-11",
+      "name": "Full Moon of Tabaung",
+      "local_name": "တပေါင်းလပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2026-03-11",
+      "is_observed_shifted": false,
+      "description": "Buddhist festival marking the end of the cool season"
+    },
+    {
+      "date": "2026-03-27",
+      "name": "Armed Forces Day",
+      "local_name": "တပ်မတော်နေ့",
+      "type": "national",
+      "observed_date": "2026-03-27",
+      "is_observed_shifted": false,
+      "description": "Commemorates the resistance against Japanese occupation in 1945"
+    },
+    {
+      "date": "2026-04-13",
+      "name": "Thingyan Water Festival",
+      "local_name": "သင်္ကြန်ပွဲတော်",
+      "type": "national",
+      "observed_date": "2026-04-13",
+      "is_observed_shifted": false,
+      "description": "First day of Myanmar New Year Water Festival"
+    },
+    {
+      "date": "2026-04-14",
+      "name": "Thingyan Water Festival",
+      "local_name": "သင်္ကြန်ပွဲတော်",
+      "type": "national",
+      "observed_date": "2026-04-14",
+      "is_observed_shifted": false,
+      "description": "Second day of Myanmar New Year Water Festival"
+    },
+    {
+      "date": "2026-04-15",
+      "name": "Thingyan Water Festival",
+      "local_name": "သင်္ကြန်ပွဲတော်",
+      "type": "national",
+      "observed_date": "2026-04-15",
+      "is_observed_shifted": false,
+      "description": "Third day of Myanmar New Year Water Festival"
+    },
+    {
+      "date": "2026-04-16",
+      "name": "Thingyan Water Festival",
+      "local_name": "သင်္ကြန်ပွဲတော်",
+      "type": "national",
+      "observed_date": "2026-04-16",
+      "is_observed_shifted": false,
+      "description": "Fourth day of Myanmar New Year Water Festival"
+    },
+    {
+      "date": "2026-04-17",
+      "name": "Myanmar New Year",
+      "local_name": "နှစ်ဆန်းတစ်ရက်နေ့",
+      "type": "national",
+      "observed_date": "2026-04-17",
+      "is_observed_shifted": false,
+      "description": "First day of the Myanmar calendar year"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Labour Day",
+      "local_name": "အလုပ်သမားနေ့",
+      "type": "national",
+      "observed_date": "2026-05-01",
+      "is_observed_shifted": false,
+      "description": "International Workers Day"
+    },
+    {
+      "date": "2026-05-10",
+      "name": "Full Moon of Kasone",
+      "local_name": "ကဆုန်လပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2026-05-10",
+      "is_observed_shifted": false,
+      "description": "Buddha Day - commemorates Buddha's birth, enlightenment, and death"
+    },
+    {
+      "date": "2026-07-08",
+      "name": "Full Moon of Waso",
+      "local_name": "ဝါဆိုလပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2026-07-08",
+      "is_observed_shifted": false,
+      "description": "Beginning of Buddhist Lent"
+    },
+    {
+      "date": "2026-07-19",
+      "name": "Martyrs Day",
+      "local_name": "အာဇာနည်နေ့",
+      "type": "national",
+      "observed_date": "2026-07-19",
+      "is_observed_shifted": false,
+      "description": "Commemorates the assassination of General Aung San and other leaders in 1947"
+    },
+    {
+      "date": "2026-10-04",
+      "name": "Full Moon of Thadingyut",
+      "local_name": "သီတင်းကျွတ်လပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2026-10-04",
+      "is_observed_shifted": false,
+      "description": "End of Buddhist Lent - Festival of Lights"
+    },
+    {
+      "date": "2026-10-05",
+      "name": "Thadingyut Holiday",
+      "local_name": "သီတင်းကျွတ်ရုံးပိတ်ရက်",
+      "type": "national",
+      "observed_date": "2026-10-05",
+      "is_observed_shifted": false,
+      "description": "Second day of Thadingyut Festival"
+    },
+    {
+      "date": "2026-10-06",
+      "name": "Thadingyut Holiday",
+      "local_name": "သီတင်းကျွတ်ရုံးပိတ်ရက်",
+      "type": "national",
+      "observed_date": "2026-10-06",
+      "is_observed_shifted": false,
+      "description": "Third day of Thadingyut Festival"
+    },
+    {
+      "date": "2026-11-02",
+      "name": "Full Moon of Tazaungdaing",
+      "local_name": "တန်ဆောင်တိုင်လပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2026-11-02",
+      "is_observed_shifted": false,
+      "description": "Tazaungdaing Festival - robe weaving festival"
+    },
+    {
+      "date": "2026-11-28",
+      "name": "National Day",
+      "local_name": "အမျိုးသားနေ့",
+      "type": "national",
+      "observed_date": "2026-11-28",
+      "is_observed_shifted": false,
+      "description": "Commemorates the 1920 student boycott against British colonial rule"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Christmas Day",
+      "local_name": "ခရစ္စမတ်နေ့",
+      "type": "national",
+      "observed_date": "2026-12-25",
+      "is_observed_shifted": false,
+      "description": "Christian holiday observed as public holiday"
+    },
+    {
+      "date": "2026-12-30",
+      "name": "Kayin New Year",
+      "local_name": "ကရင်နှစ်သစ်ကူးနေ့",
+      "type": "national",
+      "observed_date": "2026-12-30",
+      "is_observed_shifted": false,
+      "description": "New Year celebration of the Kayin ethnic group"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-03-30T01:01:38.636Z",
+    "total_holidays": 21,
+    "disclaimer": "This data is provided for informational purposes only. While we strive for accuracy, holiday dates and observance rules can change. Please verify critical dates with official government sources. Tallyfy accepts no liability for any errors or decisions made based on this data."
+  }
+}

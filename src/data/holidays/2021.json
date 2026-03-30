@@ -1,0 +1,186 @@
+{
+  "country": {
+    "code": "MM",
+    "code3": "MMR",
+    "name": "Myanmar"
+  },
+  "year": 2021,
+  "holidays": [
+    {
+      "date": "2021-01-01",
+      "name": "New Year's Day",
+      "local_name": "နှစ်သစ်ကူးနေ့",
+      "type": "national",
+      "observed_date": "2021-01-01",
+      "is_observed_shifted": false,
+      "description": "The first day of the Gregorian calendar."
+    },
+    {
+      "date": "2021-01-04",
+      "name": "Independence Day",
+      "local_name": "လွတ်လပ်ရေးနေ့",
+      "type": "national",
+      "observed_date": "2021-01-04",
+      "is_observed_shifted": false,
+      "description": "Commemorates Myanmar's declaration of independence from British rule in 1948."
+    },
+    {
+      "date": "2021-02-12",
+      "name": "Union Day",
+      "local_name": "ပြည်ထောင်စုနေ့",
+      "type": "national",
+      "observed_date": "2021-02-12",
+      "is_observed_shifted": false,
+      "description": "Commemorates the signing of the Panglong Agreement in 1947."
+    },
+    {
+      "date": "2021-03-02",
+      "name": "Peasants' Day",
+      "local_name": "တောင်သူလယ်သမားနေ့",
+      "type": "national",
+      "observed_date": "2021-03-02",
+      "is_observed_shifted": false,
+      "description": "A day to honor the contribution of farmers to the national economy."
+    },
+    {
+      "date": "2021-03-27",
+      "name": "Full Moon of Tabaung",
+      "local_name": "တပေါင်းလပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2021-03-27",
+      "is_observed_shifted": false,
+      "description": "The last full moon day of the Burmese lunar calendar year."
+    },
+    {
+      "date": "2021-03-27",
+      "name": "Armed Forces Day",
+      "local_name": "တပ်မတော်နေ့",
+      "type": "national",
+      "observed_date": "2021-03-27",
+      "is_observed_shifted": false,
+      "description": "Commemorates the start of resistance against Japanese occupation in 1945."
+    },
+    {
+      "date": "2021-04-13",
+      "name": "Thingyan Eve",
+      "local_name": "သင်္ကြန်အကြိုနေ့",
+      "type": "national",
+      "observed_date": "2021-04-13",
+      "is_observed_shifted": false,
+      "description": "The start of the Myanmar Water Festival."
+    },
+    {
+      "date": "2021-04-14",
+      "name": "Thingyan Akya Day",
+      "local_name": "သင်္ကြန်အကျနေ့",
+      "type": "national",
+      "observed_date": "2021-04-14",
+      "is_observed_shifted": false,
+      "description": "The day when Thagyamin is said to descend to earth."
+    },
+    {
+      "date": "2021-04-15",
+      "name": "Thingyan Akat Day",
+      "local_name": "သင်္ကြန်အကြတ်နေ့",
+      "type": "national",
+      "observed_date": "2021-04-15",
+      "is_observed_shifted": false,
+      "description": "The middle day of the Water Festival."
+    },
+    {
+      "date": "2021-04-16",
+      "name": "Thingyan Atat Day",
+      "local_name": "သင်္ကြန်အတက်နေ့",
+      "type": "national",
+      "observed_date": "2021-04-16",
+      "is_observed_shifted": false,
+      "description": "The final day of the water throwing festival."
+    },
+    {
+      "date": "2021-04-17",
+      "name": "Myanmar New Year Day",
+      "local_name": "မြန်မာနှစ်ဆန်းတစ်ရက်နေ့",
+      "type": "national",
+      "observed_date": "2021-04-17",
+      "is_observed_shifted": false,
+      "description": "The first day of the Myanmar lunar calendar."
+    },
+    {
+      "date": "2021-05-01",
+      "name": "Labour Day",
+      "local_name": "အလုပ်သမားနေ့",
+      "type": "national",
+      "observed_date": "2021-05-01",
+      "is_observed_shifted": false,
+      "description": "International Workers' Day."
+    },
+    {
+      "date": "2021-05-25",
+      "name": "Full Moon of Kason",
+      "local_name": "ကဆုန်လပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2021-05-25",
+      "is_observed_shifted": false,
+      "description": "Buddha Day, celebrating the birth, enlightenment, and passing of Buddha."
+    },
+    {
+      "date": "2021-07-19",
+      "name": "Martyrs' Day",
+      "local_name": "အာဇာနည်နေ့",
+      "type": "national",
+      "observed_date": "2021-07-19",
+      "is_observed_shifted": false,
+      "description": "Commemorates the assassination of Gen. Aung San and his cabinet in 1947."
+    },
+    {
+      "date": "2021-07-23",
+      "name": "Full Moon of Waso",
+      "local_name": "ဝါဆိုလပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2021-07-23",
+      "is_observed_shifted": false,
+      "description": "The start of the three-month Buddhist Lent (Vassa)."
+    },
+    {
+      "date": "2021-10-20",
+      "name": "Full Moon of Thadingyut",
+      "local_name": "သီတင်းကျွတ်လပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2021-10-20",
+      "is_observed_shifted": false,
+      "description": "Festival of Lights marking the end of Buddhist Lent."
+    },
+    {
+      "date": "2021-11-18",
+      "name": "Full Moon of Tazaungmon",
+      "local_name": "တန်ဆောင်မုန်းလပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2021-11-18",
+      "is_observed_shifted": false,
+      "description": "Festival of lights and robe-weaving (Matho Thingan) competitions."
+    },
+    {
+      "date": "2021-11-24",
+      "name": "National Day",
+      "local_name": "အမျိုးသားနေ့",
+      "type": "national",
+      "observed_date": "2021-11-24",
+      "is_observed_shifted": false,
+      "description": "Commemorates the 1920 university student strike against British colonial rule."
+    },
+    {
+      "date": "2021-12-25",
+      "name": "Christmas Day",
+      "local_name": "ခရစ္စမတ်နေ့",
+      "type": "national",
+      "observed_date": "2021-12-25",
+      "is_observed_shifted": false,
+      "description": "Celebration of the birth of Jesus Christ."
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-03-30T11:00:00.000Z",
+    "total_holidays": 19,
+    "disclaimer": "Local-first mock data for code test purposes."
+  }
+}

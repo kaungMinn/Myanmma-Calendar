@@ -1,0 +1,195 @@
+{
+  "country": {
+    "code": "MM",
+    "code3": "MMR",
+    "name": "Myanmar"
+  },
+  "year": 2022,
+  "holidays": [
+    {
+      "date": "2022-01-01",
+      "name": "New Year's Day",
+      "local_name": "နှစ်သစ်ကူးနေ့",
+      "type": "national",
+      "observed_date": "2022-01-01",
+      "is_observed_shifted": false,
+      "description": "The first day of the calendar year."
+    },
+    {
+      "date": "2022-01-04",
+      "name": "Independence Day",
+      "local_name": "လွတ်လပ်ရေးနေ့",
+      "type": "national",
+      "observed_date": "2022-01-04",
+      "is_observed_shifted": false,
+      "description": "Commemorates independence from British rule in 1948."
+    },
+    {
+      "date": "2022-02-12",
+      "name": "Union Day",
+      "local_name": "ပြည်ထောင်စုနေ့",
+      "type": "national",
+      "observed_date": "2022-02-12",
+      "is_observed_shifted": false,
+      "description": "Commemorates the Panglong Agreement of 1947."
+    },
+    {
+      "date": "2022-03-02",
+      "name": "Peasants' Day",
+      "local_name": "တောင်သူလယ်သမားနေ့",
+      "type": "national",
+      "observed_date": "2022-03-02",
+      "is_observed_shifted": false,
+      "description": "Honors the contribution of farmers to the country."
+    },
+    {
+      "date": "2022-03-16",
+      "name": "Full Moon of Tabaung",
+      "local_name": "တပေါင်းလပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2022-03-16",
+      "is_observed_shifted": false,
+      "description": "Buddhist festival marking the end of the cool season."
+    },
+    {
+      "date": "2022-03-27",
+      "name": "Armed Forces Day",
+      "local_name": "တပ်မတော်နေ့",
+      "type": "national",
+      "observed_date": "2022-03-27",
+      "is_observed_shifted": false,
+      "description": "Commemorates the resistance against Japanese occupation in 1945."
+    },
+    {
+      "date": "2022-04-13",
+      "name": "Thingyan Eve",
+      "local_name": "သင်္ကြန်အကြိုနေ့",
+      "type": "national",
+      "observed_date": "2022-04-13",
+      "is_observed_shifted": false,
+      "description": "Start of the Myanmar New Year Water Festival."
+    },
+    {
+      "date": "2022-04-14",
+      "name": "Thingyan Akya Day",
+      "local_name": "သင်္ကြန်အကျနေ့",
+      "type": "national",
+      "observed_date": "2022-04-14",
+      "is_observed_shifted": false,
+      "description": "Second day of the Water Festival."
+    },
+    {
+      "date": "2022-04-15",
+      "name": "Thingyan Akat Day",
+      "local_name": "သင်္ကြန်အကြတ်နေ့",
+      "type": "national",
+      "observed_date": "2022-04-15",
+      "is_observed_shifted": false,
+      "description": "Third day of the Water Festival."
+    },
+    {
+      "date": "2022-04-16",
+      "name": "Thingyan Atat Day",
+      "local_name": "သင်္ကြန်အတက်နေ့",
+      "type": "national",
+      "observed_date": "2022-04-16",
+      "is_observed_shifted": false,
+      "description": "Last day of water throwing."
+    },
+    {
+      "date": "2022-04-17",
+      "name": "Myanmar New Year",
+      "local_name": "နှစ်ဆန်းတစ်ရက်နေ့",
+      "type": "national",
+      "observed_date": "2022-04-17",
+      "is_observed_shifted": false,
+      "description": "First day of the Myanmar calendar year."
+    },
+    {
+      "date": "2022-05-01",
+      "name": "Labour Day",
+      "local_name": "အလုပ်သမားနေ့",
+      "type": "national",
+      "observed_date": "2022-05-01",
+      "is_observed_shifted": false,
+      "description": "International Workers' Day."
+    },
+    {
+      "date": "2022-05-14",
+      "name": "Full Moon of Kason",
+      "local_name": "ကဆုန်လပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2022-05-14",
+      "is_observed_shifted": false,
+      "description": "Buddha Day - commemorates birth, enlightenment, and death of Buddha."
+    },
+    {
+      "date": "2022-07-12",
+      "name": "Full Moon of Waso",
+      "local_name": "ဝါဆိုလပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2022-07-12",
+      "is_observed_shifted": false,
+      "description": "Beginning of Buddhist Lent."
+    },
+    {
+      "date": "2022-07-19",
+      "name": "Martyrs' Day",
+      "local_name": "အာဇာနည်နေ့",
+      "type": "national",
+      "observed_date": "2022-07-19",
+      "is_observed_shifted": false,
+      "description": "Commemorates the assassination of General Aung San and leaders."
+    },
+    {
+      "date": "2022-10-09",
+      "name": "Full Moon of Thadingyut",
+      "local_name": "သီတင်းကျွတ်လပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2022-10-09",
+      "is_observed_shifted": false,
+      "description": "End of Buddhist Lent - Festival of Lights."
+    },
+    {
+      "date": "2022-11-07",
+      "name": "Full Moon of Tazaungdaing",
+      "local_name": "တန်ဆောင်မုန်းလပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2022-11-07",
+      "is_observed_shifted": false,
+      "description": "Tazaungdaing Festival of Lights."
+    },
+    {
+      "code": "2022-11-17",
+      "name": "National Day",
+      "local_name": "အမျိုးသားနေ့",
+      "type": "national",
+      "observed_date": "2022-11-17",
+      "is_observed_shifted": false,
+      "description": "Commemorates the 1920 student boycott against colonial rule."
+    },
+    {
+      "date": "2022-12-22",
+      "name": "Kayin New Year",
+      "local_name": "ကရင်နှစ်သစ်ကူးနေ့",
+      "type": "national",
+      "observed_date": "2022-12-22",
+      "is_observed_shifted": false,
+      "description": "New Year celebration of the Kayin ethnic group."
+    },
+    {
+      "date": "2022-12-25",
+      "name": "Christmas Day",
+      "local_name": "ခရစ္စမတ်နေ့",
+      "type": "national",
+      "observed_date": "2022-12-25",
+      "is_observed_shifted": false,
+      "description": "Christian holiday observed as a public holiday."
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-03-30T11:00:00.000Z",
+    "total_holidays": 20,
+    "disclaimer": "Local mock data for code test purposes."
+  }
+}

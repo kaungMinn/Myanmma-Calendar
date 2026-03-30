@@ -1,0 +1,177 @@
+{
+  "country": {
+    "code": "MM",
+    "code3": "MMR",
+    "name": "Myanmar"
+  },
+  "year": 2025,
+  "holidays": [
+    {
+      "date": "2025-01-01",
+      "name": "New Year's Day",
+      "local_name": "နှစ်သစ်ကူးနေ့",
+      "type": "national",
+      "observed_date": "2025-01-01",
+      "is_observed_shifted": false,
+      "description": "First day of the Gregorian calendar."
+    },
+    {
+      "date": "2025-01-04",
+      "name": "Independence Day",
+      "local_name": "လွတ်လပ်ရေးနေ့",
+      "type": "national",
+      "observed_date": "2025-01-04",
+      "is_observed_shifted": false,
+      "description": "Commemorates independence from British rule in 1948."
+    },
+    {
+      "date": "2025-01-29",
+      "name": "Chinese New Year",
+      "local_name": "တရုတ်နှစ်သစ်ကူးနေ့",
+      "type": "national",
+      "observed_date": "2025-01-29",
+      "is_observed_shifted": false,
+      "description": "Lunar New Year's Day."
+    },
+    {
+      "date": "2025-02-12",
+      "name": "Union Day",
+      "local_name": "ပြည်ထောင်စုနေ့",
+      "type": "national",
+      "observed_date": "2025-02-12",
+      "is_observed_shifted": false,
+      "description": "Commemorates the Panglong Agreement."
+    },
+    {
+      "date": "2025-03-02",
+      "name": "Peasants' Day",
+      "local_name": "တောင်သူလယ်သမားနေ့",
+      "type": "national",
+      "observed_date": "2025-03-02",
+      "is_observed_shifted": false,
+      "description": "Honoring the agricultural workers of Myanmar."
+    },
+    {
+      "date": "2025-03-13",
+      "name": "Full Moon Day of Tabaung",
+      "local_name": "တပေါင်းလပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2025-03-13",
+      "is_observed_shifted": false,
+      "description": "Buddhist festival marking the end of the cool season."
+    },
+    {
+      "date": "2025-03-27",
+      "name": "Armed Forces Day",
+      "local_name": "တပ်မတော်နေ့",
+      "type": "national",
+      "observed_date": "2025-03-27",
+      "is_observed_shifted": false,
+      "description": "Commemorates the resistance against Japanese occupation."
+    },
+    {
+      "date": "2025-04-13",
+      "name": "Thingyan Eve",
+      "local_name": "သင်္ကြန်အကြိုနေ့",
+      "type": "national",
+      "observed_date": "2025-04-13",
+      "is_observed_shifted": false,
+      "description": "Start of the Myanmar New Year Water Festival."
+    },
+    {
+      "date": "2025-04-17",
+      "name": "Myanmar New Year Day",
+      "local_name": "မြန်မာနှစ်ဆန်းတစ်ရက်နေ့",
+      "type": "national",
+      "observed_date": "2025-04-17",
+      "is_observed_shifted": false,
+      "description": "First day of the Myanmar calendar year."
+    },
+    {
+      "date": "2025-05-01",
+      "name": "Labour Day",
+      "local_name": "အလုပ်သမားနေ့",
+      "type": "national",
+      "observed_date": "2025-05-01",
+      "is_observed_shifted": false,
+      "description": "International Workers' Day."
+    },
+    {
+      "date": "2025-05-11",
+      "name": "Full Moon Day of Kason",
+      "local_name": "ကဆုန်လပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2025-05-11",
+      "is_observed_shifted": false,
+      "description": "Buddha Day (Birth, Enlightenment, and Nirvana)."
+    },
+    {
+      "date": "2025-07-09",
+      "name": "Full Moon Day of Waso",
+      "local_name": "ဝါဆိုလပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2025-07-09",
+      "is_observed_shifted": false,
+      "description": "Beginning of Buddhist Lent."
+    },
+    {
+      "date": "2025-07-19",
+      "name": "Martyrs' Day",
+      "local_name": "အာဇာနည်နေ့",
+      "type": "national",
+      "observed_date": "2025-07-19",
+      "is_observed_shifted": false,
+      "description": "Commemorates the fallen national leaders."
+    },
+    {
+      "date": "2025-10-06",
+      "name": "Full Moon Day of Thadingyut",
+      "local_name": "သီတင်းကျွတ်လပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2025-10-06",
+      "is_observed_shifted": false,
+      "description": "End of Buddhist Lent - Festival of Lights."
+    },
+    {
+      "date": "2025-11-04",
+      "name": "Full Moon Day of Tazaungmone",
+      "local_name": "တန်ဆောင်မုန်းလပြည့်နေ့",
+      "type": "national",
+      "observed_date": "2025-11-04",
+      "is_observed_shifted": false,
+      "description": "Tazaungdaing Festival of Lights."
+    },
+    {
+      "date": "2025-11-14",
+      "name": "National Day",
+      "local_name": "အမျိုးသားနေ့",
+      "type": "national",
+      "observed_date": "2025-11-14",
+      "is_observed_shifted": false,
+      "description": "Commemorates the university student strike of 1920."
+    },
+    {
+      "date": "2025-12-19",
+      "name": "Kayin New Year Day",
+      "local_name": "ကရင်နှစ်သစ်ကူးနေ့",
+      "type": "national",
+      "observed_date": "2025-12-19",
+      "is_observed_shifted": false,
+      "description": "New Year of the Kayin ethnic group."
+    },
+    {
+      "date": "2025-12-25",
+      "name": "Christmas Day",
+      "local_name": "ခရစ္စမတ်နေ့",
+      "type": "national",
+      "observed_date": "2025-12-25",
+      "is_observed_shifted": false,
+      "description": "Celebration of the birth of Jesus Christ."
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-03-30T11:45:00.000Z",
+    "total_holidays": 18,
+    "disclaimer": "Local-first mock data for code test purposes."
+  }
+}

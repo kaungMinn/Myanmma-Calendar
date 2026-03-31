@@ -23,6 +23,7 @@ export default defineConfig({
   },
   server: {
     allowedHosts: ["0pgc53-ip-103-134-207-152.tunnelmole.net"],
+    strictPort: true,
   },
 
   test: {

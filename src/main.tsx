@@ -68,16 +68,6 @@ async function enableMocking() {
     return worker.start({
       onUnhandledRequest: "bypass", // Keeps the console clean from other assets
     });
-  } else {
-    // Unregister MSW service worker in production to prevent 404s
-    if ("serviceWorker" in navigator) {
-      const registrations = await navigator.serviceWorker.getRegistrations();
-      for (const registration of registrations) {
-        if (registration.active?.scriptURL.includes("mockServiceWorker.js")) {
-          await registration.unregister();
-        }
-      }
-    }
   }
 }
 

@@ -1,6 +1,13 @@
+
+**Important**: The development server must run on port 5173 for the service worker to function properly. Ensure that port 5173 is available.
+```
+
+
 # Myanmar Calendar Admin Portal
 
 A modern administrative dashboard for managing Myanmar traditional calendar data with public holiday tracking and management capabilities.
+
+
 
 ## Features
 
@@ -53,7 +60,6 @@ pnpm install
 
 # Start development server
 pnpm dev
-```
 
 ### Available Scripts
 

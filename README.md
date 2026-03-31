@@ -1,5 +1,5 @@
 
-**Important**: The development server must run on port 5173 for the service worker to function properly. Ensure that port 5173 is available.
+<span style="color: red;">**Important**: The development server must run on port 5173 for the service worker to function properly. Ensure that port 5173 is available.</span>
 ```
 
 
